@@ -1,0 +1,19 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Variables sensibles
+.env
+.env.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
